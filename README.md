@@ -19,7 +19,7 @@
 
 #### 创建小权限的限时token，推荐
 
-- 前往[https://github.com/settings/tokens?type=beta](https://github.com/settings/tokens?type=beta)创建个人token，建议使用Fine-grained tokens，避免token泄露导致不必要的麻烦。
+- 前往[https://github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens)创建个人token，建议使用Fine-grained tokens，避免token泄露导致不必要的麻烦。
 - 填写token的名称，用于自己区别干嘛用的。
 - 选择token有效期，最大时长为1年。一年后需要重新续期或重建，唯一缺点
 - `Repository access` 选择 `Only select repositories` 勾选自己fork后的仓库，下拉可搜索：输入 mimotion 进行检索
